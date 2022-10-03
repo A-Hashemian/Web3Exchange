@@ -23,3 +23,14 @@ input[type="number"] {
             rgba(48, 129, 237, 0.8) 100%
     );
 }
+.pink_gradient {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 123px;
+    height: 123px;
+    border-radius: 50%;
+
+    background: #fb37ff;
+    filter: blur(200px);
+}
