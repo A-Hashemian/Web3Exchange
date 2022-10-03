@@ -15,3 +15,11 @@ input::-webkit-inner-spin-button {
 input[type="number"] {
     -moz-appearance: textfield;
 }
+
+.gradient_btn {
+    background: linear-gradient(
+            103.91deg,
+            #9b51e0 21.01%,
+            rgba(48, 129, 237, 0.8) 100%
+    );
+}
